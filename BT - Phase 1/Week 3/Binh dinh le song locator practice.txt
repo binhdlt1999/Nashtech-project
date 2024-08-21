@@ -1,0 +1,20 @@
+Page 1
+//button[text()='Double Click Me']
+//button[text()='Right Click Me']
+//button[text()='Click Me']
+
+Page 2
+//label[text()='Yes']/preceding-sibling::input
+//label[text()='Impressive']/preceding-sibling::input
+//label[text()='No']/preceding-sibling::input
+
+Page 3
+//div[starts-with(@class, ' css-yk16xz-control')]//div[text()='Group 1, option 1']
+
+//div[starts-with(@class, ' css-1uccc91-singleValue')][starts-with(text(), 'Dr.')]
+
+
+//select[starts-with(@id, 'oldSelectMenu')]/option[text()='Blue']
+//select[@id= 'oldSelectMenu']/option[text()='Blue']
+
+
