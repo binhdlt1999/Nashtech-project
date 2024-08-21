@@ -1,0 +1,3 @@
+QC TASK: User is able to log into the system, so that user can access the system according to user’s authority (4)
+QC TASK: User is able to change the password (28)
+QC TASK: Admin is able to delete assignment (15)
